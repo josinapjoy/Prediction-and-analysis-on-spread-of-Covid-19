@@ -21,4 +21,4 @@ sometext
 ## 2. Usage tips
 
 sometext 
-![image](https://user-images.githubusercontent.com/66690240/140963836-c268bf86-d081-4c6b-902c-fd57c77ff92b.png)
+
